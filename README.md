@@ -16,3 +16,4 @@ This Jupyter Notebook implements a spam email detection model using Scikit-learn
 
 OUTPUT:
 
+[spam_email_data.csv](https://github.com/user-attachments/files/19565123/spam_email_data.csv)
